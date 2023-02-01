@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://smosh.fandom.com/wiki/Pikachu?file=025Pikachu_OS_anime_4.png" width="100"/>
+  <img src="https://static.wikia.nocookie.net/smosh/images/e/e1/025Pikachu_OS_anime_4.png/revision/latest/scale-to-width-down/1000?cb=20140725081329" width="100"/>
 </div>
 
 

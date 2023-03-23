@@ -39,4 +39,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZiyiXia&line_height=27&show_icons=true&locale=en&layout=compact" alt="Joey's GitHub Stats" />
 </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZiyiXia&line_height=26.5" alt="blink1073" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZiyiXia&line_height=26" alt="blink1073" /></p>

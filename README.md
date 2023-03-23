@@ -30,13 +30,13 @@
 - ⚡ Focus in Reinforcement Learning and Quantitative Trading
 
 <div href="https://github.com/ZiyiXia/ZiyiXia">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZiyiXia&show_icons=true&locale=en&layout=compact&langs_count=3" alt="ZiyiXia" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZiyiXia&show_icons=true&locale=en&layout=compact" alt="ZiyiXia" />
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyiXia&langs_count=3" /> -->
 </div>
 
 <!-- [![ZiyiXia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiyiXia)](https://github.com/anuraghazra/github-readme-stats) -->
 <div href="https://github.com/ZiyiXia/ZiyiXia">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZiyiXia&line_height=27&show_icons=true&locale=en&layout=compact" alt="Joey's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZiyiXia&show_icons=true&locale=en&layout=compact" alt="Joey's GitHub Stats" />
 </div>
 
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZiyiXia&line_height=26" alt="blink1073" /></div>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZiyiXia" alt="blink1073" /></div>

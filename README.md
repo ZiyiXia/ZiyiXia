@@ -31,7 +31,7 @@
 
 <a href="https://github.com/ZiyiXia/ZiyiXia">
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZiyiXia&show_icons=true&locale=en&layout=compact&langs_count=3" alt="ZiyiXia" /> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyiXia&langs_count=3" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyiXia&line_height=26&langs_count=3" />
 </a>
 
 <!-- [![ZiyiXia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiyiXia)](https://github.com/anuraghazra/github-readme-stats) -->

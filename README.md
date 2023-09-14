@@ -27,7 +27,7 @@
 
 - 😄 Pronouns: he/him
 
-- ⚡ Focus in Reinforcement Learning and Quantitative Trading
+- ⚡ Interested in Reinforcement Learning, LLMs, and Quantitative Trading
 
 <div href="https://github.com/ZiyiXia/ZiyiXia">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZiyiXia&show_icons=true&locale=en&layout=compact" alt="ZiyiXia" />

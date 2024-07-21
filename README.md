@@ -23,7 +23,7 @@
 
 - 🔭 I'm Ziyi Xia, you can call me Joey.
 
-- 👯 MSCS in Columbia University, graduating in Dec. 2023.
+- 👯 BS&MS in CS major Columbia University, graduated in Dec. 2023.
 
 - 😄 Pronouns: he/him
 
